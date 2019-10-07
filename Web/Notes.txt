@@ -34,3 +34,6 @@ ports:
 nmap -p 1-65535 -T4 -A -sS -sV -sC -v 10.10.10.76
 
 use john with rockyou.txt
+
+backups:
+  .bak, .rar., .zip, ~
