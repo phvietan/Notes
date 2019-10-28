@@ -1,1 +1,5 @@
 check for types of protocols in google: curl protocols, php protocols when dealing with web
+
+gdb check heap: info proc mappings
+
+gdb set environment USERNAME=abcd
